@@ -1,3 +1,3 @@
 # phel-lang-docker
 
-Personla depelopment environment of phel-lang.
+Personal depelopment environment of phel-lang.
